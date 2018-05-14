@@ -58,7 +58,7 @@
 								    </div>
 							  	</li>
 							  	<li class="media">
-								   <a href="https://www3.olx.com.br/account/userads" target="_blank"><img src="assets/images/olx.jpg" alt="Olx" title="Olx" width="50" height="50">&nbsp&nbsp</a>
+								   <a href="#"><img src="assets/images/olx.jpg" alt="Olx" title="Olx" width="50" height="50">&nbsp&nbsp</a>
 								    <div class="media-body">
 								    	<p align="justify">Conheça agora mesmo nossa lista de produtos com preços imperdíveis.</p>	
 								    </div>
@@ -85,7 +85,7 @@
 							  <li class="media">
 							    <span class="fa fa-envelope"></span>
 							    <div class="h6">
-							      <p>contato@metalcap.com</p>
+							      <p>adm_site@metalcap.com</p>
 							    </div>
 							  </li>
 							</ul>
